@@ -1,4 +1,4 @@
-package programmers;
+package jk.programmers;
 
 import java.util.stream.Collectors;
 

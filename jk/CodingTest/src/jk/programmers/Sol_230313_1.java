@@ -1,4 +1,4 @@
-package programmers;
+package jk.programmers;
 
 /*
 *  프로그래머스 - 분수의 덧셈
