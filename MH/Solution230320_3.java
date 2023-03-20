@@ -4,7 +4,8 @@ public class Solution230320_3 {
         long[] answer = new long[n];
         
         for(int i = 0; i < n; i++) {
-        	answer[i] = x + (x * i);
+//        	answer[i] = x + (x * i); <- 프로그래머스에서 케이스 13,14 통과 못함
+        	answer[i] = (long)(1 + i) * x;
         }
         
         return answer;
