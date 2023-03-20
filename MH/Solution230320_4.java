@@ -1,4 +1,7 @@
 public class Solution230320_4 {
+	
+	// 프로그래머스 - lv.1 - 자연수 뒤집어 배열로 만들기
+	
 	public int[] solution(long n) {
         String num = String.valueOf(n);
         
