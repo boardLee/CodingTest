@@ -14,6 +14,12 @@ public class Sol_1 {
         return -1;
     }
 
+    public int solution1(String A, String B) {
+        String tempB = B.repeat(3);
+        return tempB.indexOf(A);
+
+    }
+
     public static void main(String[] args) {
         Sol_1 s1 = new Sol_1();
         System.out.println(s1.solution("hello", "ohell"));
