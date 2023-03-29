@@ -1,4 +1,4 @@
-package programmers;
+package mar;
 
 public class Solution230329_3 {
 	
